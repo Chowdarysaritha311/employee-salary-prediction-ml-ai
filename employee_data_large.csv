@@ -1,0 +1,1001 @@
+Experience (Years),Education Level,Job Role,Location,Skills,Salary
+1,Masters,Manager,Urban,"Leadership,Machine Learning,Machine Learning",1392226
+10,Bachelors,Manager,Suburban,Leadership,1816772
+18,Masters,Manager,Suburban,"Python,Communication,Python",302066
+6,Bachelors,HR,Rural,"Machine Learning,Communication,Communication,Java",2127950
+5,Bachelors,Software Engineer,Urban,"Machine Learning,Machine Learning,Leadership,Communication",1314714
+1,Bachelors,Software Engineer,Suburban,"Machine Learning,Communication,Leadership",2465710
+5,Bachelors,Data Scientist,Suburban,"Leadership,Java,Communication",508480
+17,Masters,Software Engineer,Suburban,"Machine Learning,Communication,Communication,Communication",1569910
+1,Masters,Manager,Suburban,"Machine Learning,Leadership,Machine Learning",1376998
+17,Bachelors,Manager,Suburban,"Communication,Java,Communication",1261214
+14,Bachelors,Manager,Urban,"Communication,SQL,Machine Learning,Communication",2376238
+18,PhD,Data Scientist,Urban,"Python,Leadership,Machine Learning,Java",2472756
+1,Bachelors,Manager,Urban,"Java,Communication",2185822
+19,Bachelors,Software Engineer,Urban,"Machine Learning,Leadership",1417900
+24,Bachelors,HR,Rural,SQL,1689641
+5,Masters,HR,Suburban,"Java,Communication,SQL",253435
+0,Masters,Others,Rural,"Leadership,Communication",2186513
+23,Bachelors,Software Engineer,Urban,"Leadership,Machine Learning,Machine Learning,Machine Learning",2138339
+14,Bachelors,Manager,Rural,SQL,1720851
+22,Masters,HR,Rural,"Leadership,Leadership,Machine Learning",962917
+9,Masters,Software Engineer,Suburban,"Python,Machine Learning,Python",542441
+18,Bachelors,HR,Suburban,"Machine Learning,Java,Java,Communication",1701511
+16,PhD,Manager,Urban,"Leadership,SQL,Communication,Leadership",258314
+4,Bachelors,HR,Rural,"Machine Learning,Communication",868119
+3,Bachelors,Others,Suburban,"Java,Communication,Java,Python",891462
+9,PhD,Others,Urban,"Machine Learning,SQL",2493581
+23,Bachelors,HR,Urban,"Leadership,SQL",794653
+16,Masters,Software Engineer,Rural,Communication,551173
+9,Bachelors,Software Engineer,Rural,SQL,1562457
+16,Bachelors,Software Engineer,Rural,"Communication,Java,SQL",643186
+19,PhD,HR,Suburban,"Java,Java,Java,Machine Learning",2028568
+23,Bachelors,Software Engineer,Urban,"Python,Leadership,Communication,SQL",590362
+4,Masters,Manager,Urban,"Python,SQL,Communication,Machine Learning",1015387
+1,Bachelors,Others,Urban,"Java,Java,Machine Learning",2475844
+5,Bachelors,Manager,Urban,"Python,Python,SQL",1012790
+20,Bachelors,Software Engineer,Urban,"Python,Machine Learning,Communication,Java",2000093
+1,Masters,Manager,Urban,"Java,Java,Machine Learning",2272327
+12,Bachelors,Software Engineer,Urban,"SQL,Java,SQL,Java",1470682
+10,Masters,HR,Rural,"SQL,Communication,SQL",1298870
+10,Bachelors,Manager,Urban,"SQL,Java,SQL,Python",1061028
+15,PhD,HR,Rural,"Java,Python",2445337
+10,Bachelors,HR,Suburban,"Java,Machine Learning,Leadership,Leadership",2405534
+18,Masters,Data Scientist,Urban,"Leadership,Machine Learning,Python,Communication",1598818
+14,Masters,Software Engineer,Urban,"Machine Learning,Java",857317
+24,Masters,Others,Urban,"Python,Communication,Python,Leadership",1606948
+22,Masters,Software Engineer,Urban,"Communication,Leadership",2350923
+22,Masters,Others,Suburban,"Communication,Leadership,Python,Machine Learning",1634819
+15,Masters,Software Engineer,Urban,"SQL,SQL",1943675
+10,Bachelors,HR,Urban,Java,1224303
+21,Bachelors,Manager,Urban,"Java,Python,Java,Machine Learning",2102566
+15,PhD,Manager,Rural,"Python,Machine Learning,Java,Python",1266972
+7,Masters,Data Scientist,Suburban,"Python,Java",570580
+3,Masters,Others,Suburban,"Machine Learning,Machine Learning,Java,Python",899179
+7,Bachelors,Others,Urban,"Machine Learning,Machine Learning,Leadership",1028760
+3,Bachelors,Others,Suburban,"Java,Python,Leadership",1286658
+23,Bachelors,HR,Suburban,"Communication,Machine Learning",730674
+24,Masters,Others,Suburban,Machine Learning,1376500
+2,Bachelors,Manager,Rural,"Communication,Communication,Java,Leadership",803620
+2,Bachelors,HR,Urban,"Communication,Java",643056
+17,Bachelors,Software Engineer,Rural,"Leadership,Java,Java,Machine Learning",339031
+18,Bachelors,Others,Rural,"Leadership,Machine Learning",433024
+18,Bachelors,Others,Urban,Machine Learning,1326048
+20,Bachelors,Software Engineer,Urban,"Leadership,Communication",2407098
+4,Masters,Others,Rural,"Python,Python,Communication,Machine Learning",1797358
+17,Bachelors,Software Engineer,Urban,"Java,Leadership,SQL,Communication",1194353
+9,Bachelors,HR,Suburban,"SQL,Communication,Machine Learning",1301341
+21,Bachelors,Manager,Rural,SQL,555218
+20,Bachelors,Software Engineer,Suburban,"Leadership,Leadership",1924251
+5,Bachelors,Data Scientist,Urban,"Python,Communication,Leadership,Communication",2073980
+0,Bachelors,Software Engineer,Suburban,"Leadership,Machine Learning,Python",2216849
+4,Masters,Others,Urban,Leadership,1971742
+8,Bachelors,HR,Suburban,"Machine Learning,Java,Communication",923616
+11,Masters,HR,Urban,SQL,616047
+13,Masters,Software Engineer,Suburban,"SQL,Leadership,SQL,Python",768790
+1,Masters,Manager,Suburban,SQL,1926443
+16,Bachelors,Data Scientist,Suburban,Machine Learning,2386491
+13,Bachelors,HR,Suburban,"Leadership,Leadership,Leadership",554543
+12,Bachelors,Others,Suburban,"Communication,SQL,Machine Learning",1706498
+8,Bachelors,Others,Suburban,"Communication,Python,Communication",768993
+24,PhD,Manager,Urban,"Python,Leadership",962932
+14,Bachelors,HR,Suburban,"Communication,Communication",1777671
+24,Bachelors,Software Engineer,Urban,"SQL,Python,Python,Machine Learning",1231271
+21,Masters,Others,Rural,"SQL,Leadership,SQL,Communication",2479537
+14,Masters,Manager,Urban,"Java,SQL",1242206
+23,Bachelors,HR,Urban,"Leadership,SQL,Python,Java",2488154
+10,Bachelors,HR,Suburban,Python,253285
+15,Bachelors,HR,Urban,Java,1446352
+16,Bachelors,HR,Urban,Machine Learning,1954491
+3,Bachelors,HR,Suburban,"Communication,SQL",1631688
+0,Bachelors,Others,Suburban,SQL,1352491
+7,Bachelors,Manager,Suburban,"SQL,Communication,SQL,Machine Learning",915979
+16,Bachelors,HR,Urban,"Machine Learning,Communication,Machine Learning,Python",1502038
+2,Bachelors,Data Scientist,Suburban,"Machine Learning,SQL,Leadership",1034278
+19,Bachelors,Data Scientist,Urban,"Leadership,SQL,Communication",2193508
+14,Bachelors,Manager,Suburban,"Communication,Communication,Machine Learning",757553
+14,Masters,Software Engineer,Suburban,Leadership,1226778
+23,Masters,Software Engineer,Suburban,"Machine Learning,Communication,Communication,Leadership",1505802
+21,Bachelors,Software Engineer,Urban,"SQL,Machine Learning,Java",1531745
+13,Bachelors,Data Scientist,Urban,"SQL,Java",781661
+22,Bachelors,Software Engineer,Urban,"SQL,Communication,Machine Learning",2152871
+13,Masters,Others,Urban,Machine Learning,872215
+23,Masters,HR,Urban,"SQL,SQL,Machine Learning,Leadership",2061049
+1,Bachelors,Data Scientist,Suburban,"Java,Java,SQL",596229
+12,PhD,Manager,Urban,"Leadership,Java,SQL",1416572
+13,Bachelors,Manager,Rural,"Leadership,Leadership,Machine Learning",813508
+23,Bachelors,HR,Urban,"Python,Java",1814547
+18,Masters,Data Scientist,Suburban,"Python,SQL,SQL,Machine Learning",781930
+6,Masters,Software Engineer,Suburban,"SQL,Communication",329971
+2,Masters,Software Engineer,Urban,"Python,Machine Learning,Java,Leadership",1878420
+14,Masters,Others,Urban,"Machine Learning,SQL",1725552
+22,Bachelors,Others,Suburban,"Communication,Communication,Leadership",2123200
+13,Masters,Software Engineer,Urban,Python,1816049
+10,Bachelors,Manager,Rural,Python,647597
+14,Masters,Manager,Suburban,Leadership,1711350
+12,Bachelors,Others,Rural,"Python,Machine Learning",1591502
+17,Masters,HR,Urban,"Machine Learning,SQL",1565502
+5,Bachelors,Software Engineer,Suburban,"Python,Leadership,Java,SQL",435784
+2,Masters,Others,Suburban,"Leadership,Python,Communication,Java",1535412
+18,Bachelors,Others,Suburban,"SQL,Python,Java,Python",1449110
+14,Masters,Software Engineer,Urban,"Communication,SQL",1096462
+24,Bachelors,Software Engineer,Suburban,Machine Learning,973879
+22,Bachelors,Manager,Urban,"Leadership,SQL",2444621
+4,Bachelors,HR,Suburban,"Machine Learning,Python",1869814
+9,Bachelors,HR,Urban,"Leadership,Leadership,Machine Learning",1694315
+6,Masters,Software Engineer,Rural,Communication,1752718
+24,Bachelors,Data Scientist,Urban,"Leadership,Python,SQL",1439325
+16,PhD,Others,Rural,"Java,SQL",1444737
+6,Bachelors,Others,Rural,"Communication,Leadership,Machine Learning",648825
+21,Bachelors,Software Engineer,Rural,"Leadership,Python",2005089
+11,Masters,Data Scientist,Suburban,"Leadership,Python",2135547
+24,Masters,Manager,Urban,"Python,Python",1321512
+16,Bachelors,Software Engineer,Rural,"Java,Python",2135190
+12,Bachelors,Software Engineer,Urban,"Communication,Java,Leadership",751477
+19,Masters,Others,Suburban,"Machine Learning,Python,Python",1147691
+24,Bachelors,Software Engineer,Suburban,"Communication,Machine Learning,Java,Machine Learning",480596
+3,PhD,Software Engineer,Suburban,Machine Learning,1917906
+9,PhD,Software Engineer,Urban,"Leadership,Java,Machine Learning",1049595
+2,Masters,Others,Suburban,Leadership,1966473
+8,Bachelors,Manager,Rural,"Python,Communication",1845283
+12,Masters,Manager,Urban,"Communication,SQL,Machine Learning",1683482
+17,Bachelors,Software Engineer,Rural,"Machine Learning,SQL",544358
+14,Bachelors,Others,Urban,"SQL,Leadership,Python",2046870
+3,Bachelors,Manager,Urban,"Machine Learning,Machine Learning",776701
+14,Bachelors,Manager,Urban,SQL,1832369
+21,Masters,Manager,Urban,"SQL,SQL,Machine Learning",1026041
+1,Masters,Others,Rural,Python,1431753
+14,Masters,Others,Urban,"Leadership,Java,Python",1497752
+7,Bachelors,Software Engineer,Urban,"Leadership,Leadership,Leadership,SQL",640447
+7,Bachelors,HR,Urban,"Machine Learning,Machine Learning",750850
+16,Bachelors,Manager,Suburban,"Machine Learning,Java",1413473
+11,PhD,HR,Suburban,"Communication,Communication",1356984
+18,Bachelors,Others,Urban,Java,366908
+9,Masters,Others,Urban,"Java,Communication",1902595
+8,Bachelors,Others,Rural,"Leadership,Machine Learning",1101563
+4,Bachelors,HR,Urban,"Leadership,SQL,Communication,Java",1100712
+5,Masters,Others,Urban,"Leadership,Communication,Leadership",1416374
+19,Bachelors,Software Engineer,Urban,Java,891142
+1,Masters,Others,Suburban,Java,487902
+23,PhD,Data Scientist,Urban,Machine Learning,2410231
+12,Bachelors,HR,Suburban,"Leadership,SQL",1844441
+5,Bachelors,Data Scientist,Urban,"Python,Leadership,Communication",560258
+4,Bachelors,Others,Rural,"Communication,Python,SQL,Leadership",732450
+24,PhD,Software Engineer,Urban,Java,2148238
+0,Bachelors,Manager,Suburban,"Communication,Machine Learning,Leadership,Java",1986916
+20,Masters,Others,Urban,"SQL,Java,Machine Learning",1365770
+21,Masters,Software Engineer,Urban,"Communication,Java",1769598
+20,Masters,HR,Suburban,Machine Learning,2459485
+5,Bachelors,Data Scientist,Urban,"Java,SQL,Machine Learning",295807
+5,Masters,Data Scientist,Rural,"Java,Machine Learning,Python",1816089
+22,PhD,Data Scientist,Rural,"Communication,Leadership",1685986
+15,Bachelors,HR,Rural,"Machine Learning,Leadership",910501
+3,Bachelors,Software Engineer,Urban,"Python,Python",1808274
+10,PhD,HR,Suburban,SQL,878580
+23,Bachelors,Data Scientist,Urban,"Leadership,Machine Learning,Machine Learning,SQL",897272
+22,Masters,Others,Rural,"Python,Python,Java",788065
+8,Bachelors,Manager,Suburban,Leadership,559963
+22,Bachelors,HR,Rural,"Communication,Communication,Java,Communication",1433493
+2,Masters,HR,Urban,"SQL,Java,SQL,Java",797578
+18,Bachelors,Software Engineer,Suburban,"Communication,SQL,SQL",1673271
+7,Bachelors,Software Engineer,Urban,"Java,Machine Learning,Communication",673915
+4,Bachelors,HR,Suburban,"SQL,Leadership,Machine Learning",2183690
+3,Bachelors,Data Scientist,Urban,"Leadership,Communication,Communication",1957229
+23,Bachelors,Manager,Suburban,"SQL,Java,Machine Learning",1801726
+5,Bachelors,Software Engineer,Suburban,"Machine Learning,SQL,Communication",1093521
+1,PhD,Data Scientist,Suburban,"Communication,Communication,SQL",447345
+19,Bachelors,Others,Urban,"Python,Machine Learning,Leadership,Communication",1900870
+10,Masters,Software Engineer,Suburban,Python,1575499
+3,Bachelors,Data Scientist,Urban,"Leadership,Java,Python",1742832
+14,Masters,Data Scientist,Urban,"Python,Communication",1058062
+5,Bachelors,Manager,Urban,"Python,Java,SQL,Leadership",889724
+21,PhD,Manager,Urban,"Python,Python,Java,Machine Learning",917538
+16,Bachelors,Others,Urban,Python,663151
+23,Bachelors,Data Scientist,Suburban,"Java,Leadership,Leadership,Python",2263338
+5,Bachelors,Data Scientist,Urban,"Python,SQL,Leadership,Communication",928387
+18,Bachelors,Manager,Urban,"Python,Java,Leadership",2312624
+24,Bachelors,Software Engineer,Rural,SQL,701069
+1,Bachelors,Software Engineer,Urban,"Machine Learning,Java",2197175
+14,Masters,HR,Suburban,"Machine Learning,Python,Machine Learning",317359
+10,Bachelors,Manager,Suburban,"SQL,Python,Machine Learning",2292749
+7,Bachelors,HR,Rural,"Python,Machine Learning,Leadership,Python",1575831
+18,Masters,Manager,Suburban,"SQL,Java",1034681
+12,Masters,Others,Suburban,"Leadership,Leadership,Communication,Communication",536305
+11,Bachelors,Data Scientist,Rural,Python,1155352
+4,Bachelors,Others,Urban,"Leadership,Java,Java,Java",1141255
+5,Bachelors,Manager,Rural,"Communication,Java",2210022
+21,Masters,Data Scientist,Urban,"Machine Learning,Communication,Java",667230
+3,Masters,Software Engineer,Rural,"Python,SQL,SQL",1903172
+18,Bachelors,Software Engineer,Urban,"Communication,Java,Leadership",2131397
+19,Masters,HR,Suburban,"Leadership,Communication",661377
+0,Masters,Manager,Urban,"Python,Python,SQL,SQL",1930664
+19,Bachelors,Manager,Suburban,"Leadership,Leadership,SQL",1012557
+16,Masters,Software Engineer,Urban,"Machine Learning,Machine Learning",1323078
+11,Bachelors,Others,Rural,"Machine Learning,SQL,Python,SQL",285757
+14,Bachelors,Data Scientist,Rural,"SQL,Machine Learning,Communication,Leadership",832933
+0,Bachelors,Others,Urban,Communication,571199
+13,Bachelors,Others,Rural,"SQL,Java",1418391
+5,Bachelors,Software Engineer,Suburban,"SQL,Leadership,Communication",1176502
+4,PhD,Software Engineer,Suburban,"Machine Learning,Leadership",1661746
+10,Bachelors,Software Engineer,Urban,"Machine Learning,SQL",996631
+3,Bachelors,HR,Urban,"Communication,Leadership,Machine Learning,Leadership",279092
+12,Bachelors,Others,Urban,Java,1168746
+10,PhD,Manager,Urban,"Communication,Python,Python,Python",907191
+2,Bachelors,Data Scientist,Rural,"SQL,SQL",2419934
+0,Bachelors,HR,Urban,"Leadership,Communication,SQL",1133435
+5,Bachelors,Manager,Rural,"Python,Communication",2140576
+17,Bachelors,Others,Urban,SQL,2189309
+23,PhD,Software Engineer,Suburban,Machine Learning,457580
+9,PhD,Others,Suburban,"SQL,SQL",1019032
+4,Bachelors,Data Scientist,Rural,"Java,Machine Learning",1922992
+22,PhD,HR,Urban,"Leadership,SQL,Python",797952
+9,Masters,HR,Urban,Communication,2073948
+11,Masters,Data Scientist,Urban,Communication,414244
+1,Bachelors,Manager,Urban,"Communication,Communication",726857
+12,Bachelors,Manager,Urban,Machine Learning,1362916
+7,Bachelors,HR,Urban,Leadership,1910100
+1,Masters,HR,Urban,Machine Learning,261017
+19,Bachelors,Software Engineer,Suburban,Machine Learning,2121621
+0,Bachelors,Manager,Urban,Java,459720
+4,Bachelors,Data Scientist,Urban,Java,2468222
+8,Masters,Manager,Urban,"Python,Leadership",2050493
+16,Bachelors,Software Engineer,Suburban,"Python,Communication,Leadership",2382162
+8,Masters,HR,Rural,"Communication,SQL",1945625
+10,PhD,HR,Suburban,"Java,SQL",1028928
+14,Bachelors,Software Engineer,Suburban,"Communication,SQL,Python",2212160
+23,Masters,Data Scientist,Urban,"SQL,Java,Python,Machine Learning",1984872
+5,Bachelors,HR,Suburban,Communication,1901722
+22,Masters,Others,Urban,"Leadership,Python,Machine Learning",287493
+2,Bachelors,HR,Urban,Communication,1400311
+16,Masters,Others,Suburban,Machine Learning,1845776
+4,Masters,Software Engineer,Rural,"SQL,Java",2318535
+11,PhD,Software Engineer,Urban,Java,881581
+17,Masters,HR,Suburban,SQL,1936519
+13,Bachelors,Manager,Suburban,"SQL,Python,Leadership",871747
+20,Masters,Others,Urban,"Python,Python,Java",1531258
+23,Masters,Data Scientist,Urban,"Python,Java,Machine Learning",678886
+10,Bachelors,HR,Urban,"Java,Java,Python,Communication",479171
+8,Bachelors,Data Scientist,Urban,Leadership,417558
+1,PhD,HR,Urban,Java,1233061
+11,Masters,Manager,Urban,"Python,SQL",546412
+2,Masters,Manager,Urban,"Java,Java,Leadership",2454490
+2,Bachelors,Manager,Suburban,Machine Learning,1593679
+0,Masters,Manager,Suburban,"Machine Learning,Machine Learning",2491530
+7,Bachelors,Software Engineer,Rural,Python,1748118
+21,Masters,Software Engineer,Urban,"Machine Learning,Python,Communication",2050831
+7,Bachelors,Others,Suburban,Java,1844362
+10,Masters,Data Scientist,Rural,"Python,SQL,Python,Machine Learning",2318710
+8,PhD,HR,Suburban,Communication,2374349
+4,Bachelors,HR,Urban,"Java,Java,Communication,Communication",1257705
+13,PhD,Software Engineer,Suburban,"Java,Communication,Java,Communication",2455927
+2,Bachelors,HR,Urban,"Python,SQL,Leadership",1096056
+20,Masters,Software Engineer,Urban,"Python,Leadership,Communication,SQL",566790
+4,Masters,Others,Suburban,"Communication,Communication,Java",2166195
+4,Bachelors,Data Scientist,Suburban,Machine Learning,295712
+18,Masters,Others,Urban,"Communication,Machine Learning,Communication,Java",583964
+13,Masters,Manager,Rural,"Python,Machine Learning,Java,Leadership",2472494
+3,Bachelors,Manager,Suburban,"Machine Learning,Communication,Communication,Leadership",1914092
+24,Bachelors,Manager,Urban,"SQL,Communication",586497
+12,Masters,Others,Rural,"Python,Java,Machine Learning",737707
+9,Masters,HR,Urban,"Python,Communication,Java,Python",342091
+24,Masters,Data Scientist,Rural,Java,1646634
+17,Masters,Manager,Suburban,"Machine Learning,Java,Leadership",1480478
+7,Bachelors,Manager,Urban,"Java,SQL,Java",1143150
+7,Masters,Manager,Suburban,"Leadership,Machine Learning,Communication",785827
+6,Bachelors,Data Scientist,Suburban,"Leadership,SQL,Machine Learning",1182196
+7,Bachelors,Manager,Suburban,"Leadership,Leadership,Python",2299736
+13,Bachelors,Data Scientist,Rural,"Python,Machine Learning,SQL,Leadership",1574054
+18,Bachelors,Manager,Suburban,SQL,671743
+5,Bachelors,Others,Suburban,"Machine Learning,Leadership",1813482
+0,Bachelors,Others,Rural,"Python,Python,Leadership",1880872
+22,Masters,Data Scientist,Suburban,"SQL,Java,Machine Learning,Machine Learning",1775068
+14,Bachelors,Others,Urban,"Java,Python,Communication",1660038
+0,Bachelors,Data Scientist,Rural,SQL,669924
+24,Bachelors,Others,Urban,"Java,Machine Learning",1964796
+16,Bachelors,Others,Suburban,Leadership,2233518
+0,Bachelors,Data Scientist,Rural,"Java,Leadership,Communication,Leadership",2414452
+14,Bachelors,HR,Suburban,Python,641407
+22,Masters,Others,Suburban,"SQL,Java",1057274
+1,Masters,Manager,Suburban,"SQL,Leadership,Java",2385896
+13,Masters,HR,Urban,"SQL,SQL,Leadership,Communication",628226
+20,Bachelors,Data Scientist,Rural,"SQL,Java",2214078
+7,Bachelors,HR,Urban,"Communication,Leadership,Leadership,SQL",2206678
+7,Masters,Software Engineer,Urban,"SQL,Machine Learning,Leadership,SQL",2176252
+18,Bachelors,Software Engineer,Urban,"Python,Communication,Python",2324278
+6,Bachelors,Others,Suburban,Leadership,2268852
+18,Bachelors,Others,Suburban,"SQL,SQL,SQL,Leadership",1039622
+5,Bachelors,Manager,Rural,SQL,2395265
+5,Bachelors,HR,Urban,SQL,389861
+2,Bachelors,Software Engineer,Urban,"Leadership,Machine Learning,Python,SQL",1330701
+6,Bachelors,Others,Urban,"Java,Communication,Python",1528343
+18,Bachelors,HR,Urban,"Machine Learning,Communication",940778
+7,Masters,Others,Suburban,SQL,428157
+9,Masters,Others,Urban,"Python,SQL,Communication",2003897
+19,Masters,Software Engineer,Urban,"SQL,Machine Learning,Leadership,SQL",861709
+14,Masters,Software Engineer,Urban,"Leadership,Communication,Communication,Python",2015018
+14,PhD,Others,Urban,"Machine Learning,Java,Java,Leadership",2091903
+0,Bachelors,Data Scientist,Urban,"Java,Leadership",1479959
+19,Bachelors,Others,Urban,"Java,Machine Learning,SQL",994854
+6,Bachelors,Others,Suburban,"Communication,Python",2418169
+3,Masters,Manager,Rural,"Communication,Leadership",1913229
+5,Masters,Manager,Suburban,"Python,Communication,Python,Java",1908332
+24,Bachelors,Manager,Rural,"Machine Learning,Leadership",507137
+0,PhD,Data Scientist,Urban,Communication,1599651
+4,Bachelors,Data Scientist,Suburban,"Java,Leadership",1354399
+22,PhD,Others,Rural,"Communication,Communication,Python",1074464
+0,Bachelors,Manager,Urban,"Leadership,SQL",1021279
+3,Bachelors,Data Scientist,Rural,"Java,Python",1317383
+21,Bachelors,Software Engineer,Urban,Leadership,913431
+1,Bachelors,Others,Urban,Leadership,827701
+9,Bachelors,HR,Urban,Machine Learning,1838404
+4,Bachelors,Others,Suburban,Communication,2055148
+9,Masters,HR,Suburban,Leadership,1368824
+0,Bachelors,Manager,Suburban,"Communication,Java,Java",502515
+21,Bachelors,HR,Urban,"Python,SQL,Python,Java",1409070
+5,Masters,Manager,Urban,"Java,Machine Learning,Communication",859723
+12,Masters,Software Engineer,Urban,"Java,Leadership,Leadership",794075
+14,Bachelors,HR,Urban,Python,533126
+3,Bachelors,Others,Rural,Communication,2226230
+12,Bachelors,Manager,Urban,"SQL,Python,Communication,Python",1022783
+23,Bachelors,Others,Rural,Java,2459375
+19,Masters,Data Scientist,Rural,Java,1869800
+23,Bachelors,Manager,Urban,SQL,1176097
+14,Bachelors,HR,Suburban,"Leadership,Leadership,Leadership,Java",2233438
+7,Masters,Manager,Urban,"Communication,Leadership,SQL",1249647
+4,Bachelors,Others,Urban,"Python,Java",633609
+14,Bachelors,Software Engineer,Urban,"Python,Python,Python",2113082
+3,Bachelors,Manager,Suburban,"Machine Learning,Machine Learning,Communication,Java",2003313
+11,PhD,HR,Urban,"SQL,SQL,Python",2498885
+12,Bachelors,Data Scientist,Suburban,"Java,Python,Machine Learning,Machine Learning",1822088
+1,Masters,Software Engineer,Suburban,"Leadership,Java",1536353
+18,Bachelors,Data Scientist,Urban,"Java,Java,Python",1312279
+18,Bachelors,Manager,Suburban,Java,1220584
+3,Masters,Others,Suburban,"Communication,Python",1153923
+3,PhD,Others,Urban,SQL,1911342
+10,Masters,HR,Urban,"Communication,Java,Python",1069593
+4,Masters,Others,Suburban,"Java,Leadership,SQL",1701508
+19,Masters,Software Engineer,Urban,"Java,Java",1274603
+10,Bachelors,Others,Suburban,"Machine Learning,SQL",2329368
+9,Bachelors,HR,Urban,"Java,Java,Leadership",1629641
+7,Masters,Manager,Urban,"Java,Python",941898
+5,Bachelors,Manager,Urban,"Leadership,Python,Machine Learning,Java",874860
+5,Masters,Others,Urban,"Communication,Communication,Java",1266783
+7,PhD,Data Scientist,Suburban,"Python,SQL",1567933
+22,Bachelors,Manager,Urban,"Machine Learning,Java,SQL",2176663
+14,Bachelors,Others,Suburban,"SQL,Leadership,Machine Learning,SQL",1035786
+13,Masters,HR,Rural,"Python,Leadership",1366850
+10,Bachelors,Others,Suburban,Python,2176436
+11,Masters,Manager,Suburban,"SQL,Leadership,Python,Machine Learning",813889
+12,Bachelors,HR,Urban,"Leadership,Leadership,Communication",2158897
+7,Masters,Others,Urban,"SQL,Machine Learning",527834
+17,Bachelors,Software Engineer,Suburban,"Communication,SQL",1562629
+24,Masters,HR,Urban,Java,1640752
+0,Bachelors,Software Engineer,Suburban,"Python,Leadership",786350
+14,Bachelors,Data Scientist,Urban,"Java,Java,Python,Leadership",587530
+7,Bachelors,HR,Suburban,"Python,Leadership",1988667
+10,Masters,Software Engineer,Rural,"Leadership,SQL,SQL,Python",1434801
+11,Masters,Manager,Rural,"Java,SQL,Java,Communication",878758
+11,Bachelors,Manager,Suburban,Machine Learning,1982141
+3,Bachelors,Data Scientist,Suburban,Communication,338887
+15,Bachelors,HR,Suburban,"Communication,Python",1085544
+3,Masters,HR,Suburban,"Python,SQL,Communication",2489164
+4,Masters,HR,Urban,Machine Learning,2144018
+23,Bachelors,Data Scientist,Urban,"Communication,Leadership,Java",536629
+4,Bachelors,HR,Urban,"Machine Learning,Python,Machine Learning,Java",2190592
+7,Bachelors,Manager,Rural,"SQL,Python,Python,SQL",1884461
+9,Bachelors,Software Engineer,Urban,"Machine Learning,Communication,Machine Learning",2264601
+16,Bachelors,Manager,Suburban,"Java,Leadership,Communication",2066418
+8,PhD,Manager,Suburban,"Leadership,Leadership,SQL,Java",1008271
+21,Bachelors,Software Engineer,Suburban,"Java,Communication",1996988
+18,Masters,Manager,Suburban,Communication,400635
+13,Bachelors,Data Scientist,Urban,"Leadership,Leadership,Python,Machine Learning",952682
+7,Bachelors,Software Engineer,Suburban,Leadership,1270346
+8,Masters,Manager,Rural,"Communication,Java,Leadership",2136522
+21,Masters,Others,Urban,"Java,Leadership,Communication",1579328
+10,PhD,Manager,Urban,Java,502773
+22,Bachelors,Data Scientist,Suburban,Machine Learning,1084938
+0,Bachelors,HR,Rural,"Java,Python,Machine Learning",1057400
+13,Masters,Manager,Urban,SQL,639821
+4,Bachelors,HR,Suburban,Communication,422903
+20,Bachelors,Others,Rural,Java,352951
+13,Bachelors,Manager,Urban,"Java,Python,Leadership",555745
+3,Bachelors,Software Engineer,Rural,"Leadership,Communication,Java",2029892
+21,Masters,HR,Suburban,"SQL,Communication,Java",2419330
+22,Bachelors,Others,Suburban,Python,1458402
+24,Bachelors,Software Engineer,Suburban,SQL,2417045
+0,Bachelors,Software Engineer,Urban,"Java,SQL",598943
+21,Bachelors,Software Engineer,Urban,"Python,Python,Communication",763223
+22,Bachelors,Software Engineer,Urban,"Machine Learning,Leadership",1573921
+18,Bachelors,Manager,Urban,"Java,Java,Java",1170243
+7,Bachelors,Manager,Urban,"Machine Learning,Communication",1440283
+14,Masters,Manager,Rural,"Machine Learning,Python",1832828
+20,Bachelors,Others,Rural,Java,671001
+14,Bachelors,Others,Suburban,"Java,SQL,Machine Learning",262336
+8,Masters,Others,Rural,"Python,Leadership,SQL,Machine Learning",1113907
+20,Masters,Data Scientist,Suburban,Leadership,1719204
+8,Bachelors,Others,Urban,"Java,Java,Java",1098182
+9,Bachelors,Manager,Urban,"Machine Learning,Java,Communication",2175656
+19,Bachelors,Manager,Suburban,"Python,Machine Learning,Leadership",678670
+24,Masters,Data Scientist,Suburban,"Java,Python,SQL,Java",1099104
+20,PhD,Data Scientist,Urban,Communication,539372
+8,Masters,Others,Suburban,"SQL,Communication,Leadership,Python",264429
+2,Bachelors,HR,Urban,Leadership,1382870
+19,Masters,Data Scientist,Suburban,"Python,Python,Communication,Python",1482663
+24,Bachelors,Software Engineer,Rural,"Python,Machine Learning",1124506
+10,Bachelors,Manager,Suburban,"Python,Machine Learning",1093810
+5,Bachelors,Software Engineer,Rural,Python,287310
+1,PhD,Manager,Rural,Java,449899
+6,Bachelors,Manager,Rural,"Leadership,Java,SQL,Communication",678472
+17,Masters,Data Scientist,Rural,Java,457500
+1,Bachelors,Data Scientist,Rural,"Communication,Java,Communication",349862
+16,Bachelors,Software Engineer,Suburban,Java,1270498
+10,Bachelors,Manager,Urban,"Machine Learning,Communication",1612148
+11,Bachelors,Software Engineer,Urban,Java,617968
+18,Masters,HR,Suburban,Python,1041841
+21,Bachelors,Software Engineer,Urban,"Python,Communication",1341014
+23,Masters,Others,Urban,"Machine Learning,Java,SQL",491482
+24,Masters,Software Engineer,Rural,"SQL,Machine Learning,Python,Communication",1035372
+6,PhD,Others,Rural,"SQL,Machine Learning,Communication",2311439
+19,Bachelors,Others,Rural,"SQL,Java,Machine Learning",962222
+5,Bachelors,Others,Urban,"Python,Java",2110966
+20,Bachelors,HR,Urban,"Leadership,Machine Learning",1505950
+23,PhD,Software Engineer,Urban,Java,2050266
+0,PhD,Software Engineer,Urban,"Communication,SQL,Java,Python",587766
+16,Bachelors,HR,Urban,"SQL,Python",1800531
+10,Masters,Manager,Urban,"Python,Machine Learning,Python,SQL",331948
+21,Bachelors,Data Scientist,Rural,"Python,Java,SQL",1898655
+17,Masters,Software Engineer,Suburban,"Machine Learning,Machine Learning,Communication,Leadership",1865270
+20,Bachelors,Data Scientist,Urban,"Leadership,Leadership,Machine Learning",1339100
+16,Masters,HR,Urban,"Communication,Leadership,Leadership,Python",2457312
+6,Bachelors,Manager,Suburban,Python,1445412
+16,Masters,Manager,Urban,"Leadership,Java",1981499
+19,Masters,Manager,Rural,"Communication,Machine Learning,Leadership,Machine Learning",730891
+8,Masters,HR,Urban,"Python,Leadership,SQL,Java",1466018
+16,Bachelors,Others,Urban,"Leadership,Python",818933
+19,Bachelors,Others,Urban,"Python,Communication",634903
+21,Bachelors,Data Scientist,Urban,"SQL,Machine Learning,Machine Learning,Communication",1031608
+21,Bachelors,Others,Suburban,"SQL,Java",1384077
+7,Bachelors,Others,Suburban,"Machine Learning,Leadership",1416026
+16,PhD,Manager,Suburban,Machine Learning,2018407
+6,Bachelors,Manager,Urban,"Machine Learning,Python",1577676
+0,Bachelors,Data Scientist,Suburban,Leadership,1181398
+12,Bachelors,Software Engineer,Suburban,"Leadership,Java,Machine Learning,Java",2326664
+22,Bachelors,Data Scientist,Rural,Machine Learning,1790710
+18,Masters,Data Scientist,Urban,"Machine Learning,Java,Java,Python",1839573
+23,Bachelors,HR,Urban,"Communication,Python,Leadership",1817043
+18,PhD,HR,Suburban,"Machine Learning,Java,Machine Learning,Machine Learning",350025
+16,Bachelors,Data Scientist,Suburban,"Leadership,SQL,Machine Learning",1449728
+12,PhD,Data Scientist,Urban,"Java,Machine Learning,Leadership,SQL",1793992
+15,Masters,Data Scientist,Urban,"Machine Learning,Communication",2209484
+7,Bachelors,Others,Urban,"Leadership,Communication",440043
+18,PhD,HR,Rural,"Machine Learning,Leadership,Java,Machine Learning",2255789
+17,Bachelors,Data Scientist,Urban,"SQL,Leadership,Leadership,Communication",1017128
+0,Masters,Manager,Rural,"SQL,Leadership,Machine Learning",565104
+13,Bachelors,Manager,Suburban,"Communication,SQL,Communication",684368
+18,Masters,Others,Rural,"SQL,Communication,SQL,SQL",2170773
+14,Masters,Others,Rural,"Communication,Communication",2133145
+17,Masters,Software Engineer,Urban,Python,1417498
+1,Masters,Software Engineer,Rural,"SQL,Communication,Leadership",766576
+21,Bachelors,Software Engineer,Urban,Java,1738204
+16,Bachelors,Others,Rural,Communication,1604596
+17,Bachelors,Others,Suburban,SQL,1383009
+5,Bachelors,Others,Urban,"Java,Communication",2420856
+18,Masters,Manager,Suburban,"Leadership,Leadership,Java",781149
+3,Bachelors,Others,Rural,"Leadership,Machine Learning,Leadership,Java",488366
+0,PhD,Manager,Urban,Java,574058
+7,Masters,Software Engineer,Suburban,"Python,Python",1362464
+22,Masters,Software Engineer,Suburban,"Leadership,SQL,Python",1115718
+6,Bachelors,Software Engineer,Rural,"Machine Learning,Java,Communication,Java",463596
+2,Masters,Data Scientist,Urban,"Communication,Leadership",318515
+9,PhD,Data Scientist,Urban,Machine Learning,666740
+9,Bachelors,HR,Urban,"Communication,SQL",1463013
+18,Masters,HR,Suburban,"Machine Learning,Python",2143884
+13,Masters,HR,Urban,"Java,Leadership",1191208
+1,Bachelors,Data Scientist,Rural,"Communication,SQL,SQL,Python",438929
+0,Bachelors,Data Scientist,Urban,"Machine Learning,Python,Java",2310035
+22,Bachelors,HR,Suburban,"Java,SQL,Machine Learning,Communication",1914005
+22,Bachelors,HR,Urban,"Java,Communication,Machine Learning,Machine Learning",2303780
+17,Bachelors,Others,Urban,Java,1663110
+6,Bachelors,HR,Urban,"Communication,Leadership,Leadership,Java",1657576
+7,Bachelors,Others,Urban,Leadership,2151209
+0,Bachelors,Manager,Suburban,Machine Learning,272995
+24,PhD,Data Scientist,Rural,"Leadership,Machine Learning",1128752
+22,Bachelors,HR,Suburban,"Python,Python,Java,Leadership",1903005
+2,PhD,Data Scientist,Rural,"Leadership,Communication",2299079
+23,Bachelors,Data Scientist,Rural,"Leadership,Machine Learning,Java,Leadership",1962355
+22,Bachelors,Data Scientist,Suburban,"Leadership,Python",691168
+7,Bachelors,Manager,Rural,"Java,Leadership,SQL",939197
+21,Bachelors,Software Engineer,Suburban,"Communication,Leadership",2002813
+24,Bachelors,HR,Urban,Python,749471
+14,Masters,Software Engineer,Suburban,"Python,SQL",2130695
+4,Bachelors,Software Engineer,Urban,"Machine Learning,Python",1005027
+2,Masters,Software Engineer,Suburban,"Machine Learning,Java,SQL,Java",1335852
+18,Masters,Data Scientist,Suburban,"Python,Machine Learning",1857387
+0,Bachelors,Others,Urban,"Java,Java",739858
+14,Bachelors,Data Scientist,Urban,SQL,260514
+7,Masters,Data Scientist,Rural,"Java,Python,Machine Learning",2394608
+1,Bachelors,Software Engineer,Suburban,"Leadership,Communication,Python,Communication",2354385
+2,Bachelors,Data Scientist,Urban,"Java,Python",1561822
+23,PhD,Software Engineer,Suburban,Java,1146977
+13,Bachelors,Others,Suburban,"SQL,SQL,Java,Communication",878373
+23,Masters,HR,Suburban,"Java,Leadership",883389
+13,PhD,Software Engineer,Rural,"Communication,Leadership",1407260
+10,Bachelors,Others,Suburban,"Communication,Java,Machine Learning,Python",1625520
+15,Bachelors,HR,Urban,"Java,Java,Java",2288170
+3,Bachelors,Manager,Rural,"Python,Communication,Python,Machine Learning",2213853
+19,Bachelors,Software Engineer,Rural,"SQL,Java",1237886
+4,Bachelors,Software Engineer,Urban,Leadership,377602
+21,Masters,Manager,Urban,"Java,SQL,Leadership",2211328
+20,Bachelors,Manager,Urban,"Python,Machine Learning,Java,Communication",1600093
+13,Bachelors,Software Engineer,Suburban,Java,443691
+22,PhD,Manager,Suburban,Communication,531383
+15,Masters,Data Scientist,Suburban,"Leadership,Leadership",1440064
+17,Masters,HR,Rural,SQL,798694
+6,Bachelors,HR,Suburban,SQL,1811023
+9,Masters,HR,Urban,"SQL,Java",2253146
+6,Bachelors,Data Scientist,Urban,"Machine Learning,Java",729969
+0,Bachelors,Manager,Urban,"Machine Learning,Machine Learning,Java",932346
+22,Bachelors,Others,Urban,Communication,1254411
+20,Masters,Manager,Suburban,"Machine Learning,Java",1051123
+18,Bachelors,Software Engineer,Rural,"Communication,Java,Java",450919
+15,Bachelors,HR,Urban,"Machine Learning,Leadership,Machine Learning,Python",449542
+18,Bachelors,Manager,Suburban,"Communication,Communication,Communication,SQL",1970342
+3,Bachelors,Others,Suburban,"Machine Learning,Communication",2069833
+17,Masters,Software Engineer,Urban,Communication,2200500
+1,Masters,Data Scientist,Urban,"Java,Java",1143061
+0,Masters,Data Scientist,Urban,"Machine Learning,SQL,Machine Learning,Communication",1473045
+14,Bachelors,Others,Urban,"Python,Machine Learning",897601
+4,Bachelors,Software Engineer,Rural,"Machine Learning,Java,Communication",2186983
+19,Bachelors,HR,Urban,Communication,1654568
+10,Bachelors,Manager,Urban,Communication,1010956
+9,Bachelors,Software Engineer,Suburban,Python,413543
+1,Masters,Data Scientist,Rural,"Communication,SQL,Leadership",621557
+2,Bachelors,Others,Urban,Machine Learning,749964
+22,Bachelors,Others,Urban,"Communication,Java,Python,Machine Learning",2401365
+22,Bachelors,Manager,Urban,"Java,Communication,Python,Machine Learning",1049458
+11,Bachelors,Others,Urban,Machine Learning,255435
+19,Bachelors,Others,Urban,Leadership,389565
+4,PhD,Software Engineer,Suburban,"Leadership,Machine Learning,SQL,Communication",1170267
+4,Masters,HR,Urban,"Leadership,Java",2378650
+5,PhD,Manager,Urban,Java,1137977
+8,Bachelors,Software Engineer,Rural,Java,810113
+1,Bachelors,HR,Urban,"SQL,Java",1577654
+20,Bachelors,Software Engineer,Urban,"Machine Learning,Communication",1992115
+11,Bachelors,Software Engineer,Urban,Python,2389934
+2,Masters,Others,Rural,"Communication,SQL,Java,SQL",697628
+19,Bachelors,HR,Urban,Leadership,1359137
+21,Bachelors,Manager,Rural,"Communication,Communication,SQL",714535
+11,Bachelors,Manager,Suburban,"SQL,Java",1790808
+23,Bachelors,HR,Urban,"Leadership,Machine Learning,Java,Machine Learning",1598894
+16,Masters,Others,Rural,Machine Learning,2207686
+9,Bachelors,Data Scientist,Urban,"Machine Learning,Communication",306572
+23,Bachelors,Software Engineer,Urban,"Python,Communication,Communication",2146424
+13,Bachelors,Others,Rural,"SQL,SQL",2383221
+22,Bachelors,HR,Suburban,"Python,Java",987550
+16,Masters,Software Engineer,Suburban,Leadership,1062802
+17,Masters,Manager,Urban,"Communication,Python,Communication,Java",2048954
+18,PhD,Data Scientist,Urban,"Machine Learning,Java,Machine Learning",2210350
+16,Masters,Manager,Suburban,"Communication,Java,Java,Python",1032533
+13,Bachelors,HR,Urban,"Java,Python,SQL",1179090
+8,Masters,Software Engineer,Urban,"SQL,Leadership,Java",637902
+7,Bachelors,HR,Urban,"Java,Python",2221402
+1,Bachelors,Software Engineer,Urban,"Leadership,Leadership",2150302
+12,Masters,Others,Rural,"Python,SQL,Python,Machine Learning",1902332
+24,Bachelors,Data Scientist,Urban,"Java,Python,Leadership",934659
+6,PhD,Others,Rural,"SQL,SQL,Java",689717
+8,Bachelors,Others,Urban,"Python,Machine Learning,Java",962494
+21,Masters,HR,Suburban,"Python,Communication,SQL,Machine Learning",1440897
+21,Masters,Data Scientist,Urban,"Leadership,Machine Learning,Leadership,Machine Learning",2491105
+10,Masters,Software Engineer,Urban,"Leadership,Python,Leadership",1570307
+13,Masters,Software Engineer,Urban,"Python,Java",1143441
+3,Masters,Manager,Urban,"Machine Learning,Python,Machine Learning",731127
+12,Bachelors,Software Engineer,Suburban,"Communication,Machine Learning,Machine Learning",1175337
+1,Bachelors,HR,Rural,"Java,Leadership,Communication",1809366
+22,Bachelors,Others,Suburban,"Machine Learning,Communication,Communication,Python",1345589
+4,Masters,Others,Urban,"Communication,Communication",891629
+10,Bachelors,Others,Urban,"Leadership,Communication,Java",1164217
+5,Masters,Data Scientist,Urban,"Leadership,Machine Learning",1445402
+17,Bachelors,Software Engineer,Suburban,"Machine Learning,Machine Learning,SQL,Communication",881872
+20,Bachelors,HR,Suburban,"Python,Machine Learning,Communication,Machine Learning",328113
+9,Masters,Data Scientist,Rural,"Java,Java,Communication",2171792
+3,Bachelors,Manager,Urban,"Java,Java,Python",417809
+8,Bachelors,HR,Suburban,Communication,1809764
+5,Bachelors,HR,Urban,"Java,Java",1789219
+1,PhD,HR,Suburban,"SQL,Machine Learning",536268
+16,Masters,Others,Suburban,"SQL,Communication,Python,Machine Learning",645412
+4,Bachelors,HR,Suburban,Leadership,346651
+24,Bachelors,Software Engineer,Suburban,Leadership,1545125
+5,Bachelors,HR,Urban,Python,335395
+11,Masters,Others,Suburban,Python,2119085
+22,Masters,HR,Urban,Java,615837
+20,Bachelors,Manager,Suburban,Leadership,1383859
+9,Bachelors,Manager,Urban,"Machine Learning,Communication,Leadership",1343060
+21,Bachelors,Others,Suburban,"SQL,Machine Learning,Java",438726
+20,Masters,Software Engineer,Rural,Communication,1738332
+24,Masters,Software Engineer,Rural,"Python,Leadership",464223
+5,Bachelors,Data Scientist,Rural,SQL,1415975
+7,Bachelors,Others,Suburban,Machine Learning,2189893
+1,Bachelors,HR,Suburban,"Machine Learning,Java",2245457
+11,PhD,Others,Suburban,"Leadership,Python,Python",1263071
+12,Bachelors,Data Scientist,Rural,"Java,SQL,Communication",1479221
+24,Masters,Others,Urban,"Leadership,Machine Learning,Machine Learning,Leadership",948093
+20,Masters,Others,Rural,"Python,Machine Learning",1936090
+6,Bachelors,Data Scientist,Rural,Communication,873538
+9,Bachelors,Software Engineer,Suburban,"Leadership,Python",537906
+12,Bachelors,HR,Urban,SQL,1988268
+16,Masters,Data Scientist,Urban,"Python,Python,Communication,SQL",1434592
+20,Masters,Manager,Rural,"Communication,SQL",2395977
+13,Masters,Software Engineer,Urban,SQL,2361029
+1,Bachelors,Manager,Rural,Communication,2476217
+21,Bachelors,Software Engineer,Urban,"Communication,Machine Learning",882731
+10,PhD,HR,Urban,"Machine Learning,Communication,Java,Communication",611756
+0,Masters,HR,Rural,"Leadership,SQL,Communication,Communication",2464826
+18,Bachelors,Others,Suburban,Python,2271363
+20,PhD,Manager,Suburban,Communication,767257
+3,Masters,Software Engineer,Suburban,"SQL,SQL",646474
+18,Bachelors,HR,Urban,"Leadership,Java,Java,SQL",1550457
+20,Masters,Data Scientist,Suburban,"Python,Python,SQL,Java",281629
+10,Masters,HR,Urban,"Leadership,Machine Learning,SQL",1205083
+7,Masters,Data Scientist,Rural,Communication,1452606
+10,Bachelors,Software Engineer,Rural,"Java,Communication,Leadership",1731257
+3,Bachelors,HR,Urban,"Python,Machine Learning,Communication",2301933
+16,PhD,HR,Suburban,"Leadership,Python,Communication,Leadership",1768367
+6,Bachelors,Software Engineer,Suburban,"Machine Learning,Communication,Python,Machine Learning",2269712
+7,Bachelors,HR,Urban,"Leadership,Communication,Java",512199
+2,Bachelors,Data Scientist,Rural,"Python,SQL",1387273
+21,Bachelors,HR,Urban,"Java,Python,Leadership,SQL",2163207
+1,Masters,Manager,Urban,"Python,Python,Machine Learning",1454966
+22,PhD,Others,Suburban,Machine Learning,283734
+14,Bachelors,Data Scientist,Suburban,"Machine Learning,Communication,SQL,Leadership",463299
+23,Bachelors,Manager,Suburban,"SQL,Communication,Machine Learning",392728
+21,Bachelors,Software Engineer,Suburban,"Python,Communication,Python,Communication",921253
+21,Masters,Data Scientist,Suburban,Java,1803185
+4,Masters,Others,Suburban,"SQL,SQL,Leadership",1256152
+23,Bachelors,Others,Urban,"Machine Learning,Leadership,Java",943812
+0,Masters,Software Engineer,Urban,"Leadership,SQL,Machine Learning,Java",1967202
+3,Masters,Software Engineer,Urban,"Python,Communication,Java",1681907
+14,Masters,Data Scientist,Urban,"Leadership,Leadership,Java,Machine Learning",1839804
+19,PhD,HR,Suburban,"Machine Learning,Leadership",902168
+18,Bachelors,Software Engineer,Urban,"Python,SQL,Python",1071247
+2,Masters,HR,Urban,"SQL,SQL",2396449
+19,Bachelors,Manager,Urban,"Communication,Leadership",2407259
+10,Masters,Others,Rural,"Leadership,Machine Learning,Machine Learning,Python",542552
+16,Masters,HR,Rural,"Machine Learning,Java,SQL,Leadership",2280290
+12,Masters,Others,Suburban,"Machine Learning,Communication",1445055
+10,Masters,HR,Rural,"Machine Learning,Python",1458957
+1,Bachelors,Manager,Suburban,Python,2287998
+8,Bachelors,Software Engineer,Suburban,"Machine Learning,Java,Communication",1391766
+1,PhD,Manager,Urban,"Java,Java,Leadership,Machine Learning",1026644
+20,PhD,Software Engineer,Suburban,"Java,Java,Java,Leadership",2315167
+8,Bachelors,Software Engineer,Suburban,"Java,Python,Machine Learning,Leadership",774658
+8,Bachelors,Others,Suburban,SQL,1674932
+7,Bachelors,Manager,Suburban,"SQL,Java,Leadership,Java",1036918
+16,Masters,HR,Suburban,"Communication,Java",2108770
+0,Masters,Manager,Suburban,"Leadership,Java,Machine Learning",253196
+24,Bachelors,Others,Rural,"Leadership,Leadership,Java",1799648
+10,Bachelors,Software Engineer,Urban,Java,2185573
+7,Masters,Others,Suburban,"SQL,SQL,Leadership,Leadership",2161357
+9,Masters,Data Scientist,Urban,"SQL,SQL",1720017
+24,Bachelors,Data Scientist,Suburban,Machine Learning,2265470
+6,Bachelors,HR,Suburban,Python,1108811
+2,Bachelors,Others,Urban,"Communication,Java,Machine Learning",1414650
+2,Bachelors,HR,Suburban,"Python,Machine Learning",1917108
+17,Bachelors,HR,Urban,"SQL,Communication",2031336
+4,Masters,Data Scientist,Suburban,"Java,Python,SQL,Communication",874588
+11,Masters,HR,Urban,"Communication,Leadership,Machine Learning",2404327
+11,Masters,Data Scientist,Suburban,"SQL,SQL,SQL,Machine Learning",1400127
+18,Masters,Software Engineer,Urban,Communication,1055408
+5,Bachelors,Others,Suburban,"Leadership,SQL,Machine Learning,Python",2464904
+1,Bachelors,HR,Urban,"Communication,Machine Learning,Leadership,Leadership",543257
+11,Bachelors,Data Scientist,Rural,SQL,2069456
+18,Bachelors,Manager,Rural,"Python,Machine Learning",1838265
+4,Masters,HR,Rural,"Python,SQL,Python,Python",2228964
+11,PhD,Software Engineer,Suburban,"Python,Communication",1514008
+16,Bachelors,Software Engineer,Suburban,"Java,Machine Learning,Machine Learning,SQL",1632212
+16,Bachelors,Manager,Urban,"Java,Leadership,SQL",1509112
+9,Masters,Data Scientist,Urban,"SQL,SQL,Machine Learning",1375269
+24,Bachelors,HR,Urban,"Machine Learning,Communication",2112870
+22,Bachelors,Data Scientist,Suburban,"Communication,Python,Python,Communication",2483414
+16,Masters,Software Engineer,Rural,Machine Learning,1893063
+14,Masters,Data Scientist,Urban,Java,2190374
+11,Bachelors,Software Engineer,Rural,Python,254331
+15,Bachelors,Data Scientist,Suburban,"Leadership,Communication,SQL,SQL",1815976
+23,Masters,Manager,Suburban,"Communication,Java,SQL,Leadership",462854
+18,Bachelors,Others,Urban,"Communication,Java,Java",800049
+7,Bachelors,Manager,Urban,"Java,SQL,SQL,Communication",1039694
+20,Masters,Manager,Suburban,"Communication,Java,Leadership",1803416
+16,Bachelors,Others,Suburban,Machine Learning,1030080
+22,Masters,Others,Urban,Java,1383243
+4,Bachelors,HR,Suburban,"Python,Machine Learning",254677
+21,PhD,HR,Rural,"Python,Communication,SQL",454580
+15,Bachelors,Manager,Rural,"Communication,SQL",380334
+5,Bachelors,Manager,Rural,"Leadership,Leadership",613581
+7,Bachelors,Software Engineer,Urban,"Leadership,Machine Learning",2325996
+24,Bachelors,Software Engineer,Urban,Machine Learning,1218121
+17,Masters,HR,Suburban,Communication,2302109
+24,PhD,HR,Urban,"Communication,Python,Machine Learning,Python",1883012
+11,Bachelors,Software Engineer,Urban,"Java,Communication",2131934
+14,Bachelors,Software Engineer,Urban,"Java,Leadership,Leadership",808745
+8,Masters,Data Scientist,Urban,Communication,816819
+12,Masters,Data Scientist,Urban,"SQL,Java",444243
+14,Bachelors,Software Engineer,Urban,"Java,SQL,Machine Learning",1811021
+9,Bachelors,Data Scientist,Urban,"Python,Leadership",507231
+15,Bachelors,Others,Urban,"SQL,Java",867423
+6,Masters,HR,Suburban,"Java,Leadership,Communication,Python",840642
+16,Bachelors,HR,Suburban,"SQL,Communication,Machine Learning,Communication",887031
+22,Masters,Software Engineer,Suburban,"Communication,Machine Learning,Communication",2253369
+20,Bachelors,Manager,Urban,"Leadership,Java,Communication",1856756
+21,Masters,Software Engineer,Urban,"Java,Java,Communication",1500844
+6,Bachelors,Data Scientist,Suburban,"Leadership,Communication,Machine Learning",1166094
+13,Bachelors,Manager,Suburban,"Communication,Java",345057
+14,Bachelors,Data Scientist,Suburban,"SQL,Python,Communication,Leadership",1336985
+20,Masters,Others,Urban,Java,496889
+6,Bachelors,Data Scientist,Rural,"Machine Learning,Leadership,SQL",2496609
+8,Bachelors,Others,Urban,"Communication,Machine Learning,SQL,Python",1715088
+18,Bachelors,Others,Urban,"Java,SQL",2203574
+15,Bachelors,Data Scientist,Suburban,"Python,Communication,Leadership",1125584
+7,Masters,Data Scientist,Suburban,"Java,SQL",1324958
+17,Masters,Others,Urban,"SQL,Java,SQL,Python",2423827
+22,Masters,Manager,Urban,"SQL,SQL,Machine Learning",331238
+17,Bachelors,Others,Suburban,"Python,Python,SQL",1292536
+19,Masters,HR,Urban,"Machine Learning,SQL",1993227
+6,Bachelors,Others,Urban,"SQL,Java,Java",836470
+2,Bachelors,Manager,Urban,"Machine Learning,Communication",427216
+17,Bachelors,HR,Rural,"Java,Communication,Python,Java",704988
+9,Bachelors,Software Engineer,Urban,"Machine Learning,Leadership",2426512
+6,Masters,Software Engineer,Rural,Java,373662
+16,Masters,Manager,Suburban,"Machine Learning,Machine Learning",2068352
+13,Masters,Others,Rural,"Communication,Python",886438
+23,Bachelors,Data Scientist,Rural,"Leadership,Python,SQL",1730175
+2,Bachelors,Manager,Urban,"Communication,Leadership",2079484
+11,Bachelors,HR,Urban,"Communication,Communication",1917690
+12,Bachelors,HR,Urban,Java,2182656
+1,Bachelors,Software Engineer,Urban,"Machine Learning,Java",475121
+2,Bachelors,HR,Suburban,"Communication,Leadership,SQL,Python",2219036
+4,Bachelors,Manager,Urban,"Communication,SQL,Machine Learning,Communication",1072922
+10,Bachelors,HR,Urban,"SQL,Communication,Java,Leadership",2324722
+7,Masters,Manager,Urban,"Leadership,Java,Java",1354188
+22,PhD,Data Scientist,Rural,"SQL,Leadership",1596879
+22,PhD,Software Engineer,Urban,"Python,SQL",1181310
+11,Masters,HR,Urban,"Python,Communication,Leadership,Communication",461463
+6,Bachelors,Manager,Urban,"SQL,Leadership,Communication,Machine Learning",1917788
+14,Masters,Others,Rural,"Java,Leadership,Java,Python",518602
+23,Masters,Software Engineer,Suburban,Python,912213
+16,Bachelors,Data Scientist,Urban,"Leadership,Java,Java",1601197
+3,Bachelors,Manager,Urban,Leadership,792608
+21,Masters,Data Scientist,Urban,"Machine Learning,Machine Learning,Communication,Leadership",2441306
+24,Bachelors,Data Scientist,Urban,Leadership,343476
+12,Bachelors,HR,Rural,"Python,Communication,Leadership",364560
+17,Bachelors,HR,Suburban,"Leadership,Leadership,Communication,Python",1170707
+0,Bachelors,Manager,Urban,Python,1599987
+15,Bachelors,Others,Rural,SQL,1119241
+12,Bachelors,Manager,Urban,"Communication,Java,Communication,SQL",799656
+9,Bachelors,Others,Suburban,SQL,1744475
+11,Bachelors,Data Scientist,Rural,"Machine Learning,Communication,Communication,Java",2347953
+1,Masters,Software Engineer,Urban,"Java,Machine Learning,Python",2076629
+22,Bachelors,Manager,Suburban,"Java,Leadership,Java",1774061
+2,Bachelors,Manager,Urban,Python,341679
+9,Bachelors,Others,Urban,SQL,2014239
+1,PhD,Data Scientist,Urban,Java,1589083
+22,Bachelors,Data Scientist,Urban,"Machine Learning,Python",1460368
+12,Bachelors,Others,Suburban,"Communication,SQL",1990081
+12,Masters,Data Scientist,Rural,"Communication,Java",862236
+17,Masters,HR,Suburban,"Communication,Java",427476
+2,Bachelors,Software Engineer,Rural,"Java,Java",1449217
+6,Masters,Manager,Rural,"Java,Machine Learning,Leadership",2082942
+13,Bachelors,Software Engineer,Urban,Machine Learning,1174276
+19,Bachelors,Manager,Urban,"Machine Learning,Python,Python",1318307
+16,Bachelors,HR,Urban,SQL,2181441
+20,Bachelors,Data Scientist,Suburban,Communication,515033
+11,Masters,Others,Rural,"Communication,Leadership,Python,SQL",783857
+24,Bachelors,HR,Urban,"SQL,Leadership",2172201
+15,Bachelors,Software Engineer,Suburban,"Machine Learning,Communication,Java,Communication",1383768
+23,Masters,Others,Suburban,Java,1385730
+11,Masters,Data Scientist,Suburban,"Machine Learning,Machine Learning,SQL",1406649
+14,Bachelors,HR,Urban,SQL,1518470
+24,Masters,Others,Urban,"Python,Java",1874508
+9,Bachelors,HR,Urban,"Python,Java,SQL",2166749
+24,Masters,HR,Urban,"SQL,Communication,SQL,Communication",1092329
+6,Masters,Data Scientist,Urban,"SQL,Java",1443582
+19,PhD,Manager,Suburban,"Python,Java",1783286
+4,Bachelors,Others,Urban,"SQL,SQL",1138976
+0,Bachelors,Data Scientist,Rural,"Python,Java,Python,Communication",1841570
+16,Bachelors,HR,Suburban,"Java,Python,Machine Learning,Machine Learning",424588
+2,Bachelors,Data Scientist,Suburban,"Communication,Machine Learning",1780332
+12,Bachelors,Manager,Urban,"Machine Learning,Communication,Python,Machine Learning",374746
+13,PhD,Others,Suburban,"SQL,Leadership,Leadership,Machine Learning",794719
+23,Bachelors,Manager,Rural,Python,1998071
+17,Bachelors,Software Engineer,Urban,"Java,SQL,Python,Communication",1283290
+3,Masters,Others,Urban,"SQL,Leadership,SQL,Communication",681231
+17,Bachelors,Manager,Suburban,"Communication,Communication,Machine Learning,Machine Learning",1005398
+4,Masters,HR,Urban,"Machine Learning,Machine Learning,Communication,Java",731438
+24,Bachelors,Others,Urban,"Python,Java",824120
+15,Bachelors,Others,Urban,"Java,Communication",2125939
+0,Bachelors,Data Scientist,Urban,"Machine Learning,Communication,Leadership,Java",1508542
+20,Bachelors,HR,Suburban,Python,1370780
+13,PhD,Software Engineer,Urban,"Machine Learning,SQL,Python,Leadership",2392936
+14,Bachelors,Manager,Rural,Communication,1554140
+8,Bachelors,Data Scientist,Suburban,"Machine Learning,Leadership",863794
+14,Bachelors,Manager,Suburban,"SQL,Python",2038702
+16,Bachelors,Software Engineer,Suburban,"Java,Java,SQL",1841711
+24,Masters,Software Engineer,Rural,"Java,SQL,Python,SQL",1878853
+23,Bachelors,Others,Urban,"Communication,Java,Machine Learning",2308721
+3,Masters,Software Engineer,Rural,"Communication,Leadership,Machine Learning,SQL",2210391
+11,PhD,Manager,Suburban,Python,713144
+4,Bachelors,HR,Suburban,"Java,Java",2211921
+4,PhD,HR,Suburban,"Python,Communication,Communication",1449029
+10,Bachelors,Others,Urban,"Python,Python",1149751
+5,Bachelors,Manager,Urban,Machine Learning,567817
+6,Bachelors,Manager,Suburban,"Java,Python,Leadership,Python",2370100
+23,Masters,Software Engineer,Urban,Communication,309072
+13,PhD,Manager,Suburban,"Leadership,Python",1956422
+23,Bachelors,Data Scientist,Urban,"Leadership,Java,Communication",2413843
+10,Masters,Software Engineer,Urban,"Communication,Machine Learning,Java",257086
+12,Bachelors,Data Scientist,Urban,"Python,Python",639962
+1,Bachelors,Others,Urban,"SQL,Leadership,SQL,SQL",842141
+24,Bachelors,HR,Suburban,"Leadership,Java",1051680
+6,PhD,Others,Urban,"Leadership,Communication,Java,Java",2109234
+19,Masters,HR,Rural,"Machine Learning,Java",1192529
+3,Bachelors,Others,Suburban,"Python,Python,Leadership,Communication",1013210
+7,Bachelors,Manager,Urban,"Leadership,Python,Machine Learning,Machine Learning",1837138
+19,Bachelors,Data Scientist,Suburban,Machine Learning,2336172
+21,Bachelors,HR,Rural,"Machine Learning,Communication",1615265
+20,Bachelors,Software Engineer,Suburban,"Communication,Communication",365981
+18,Masters,Data Scientist,Urban,Java,266304
+12,Bachelors,Software Engineer,Rural,"Python,Leadership,SQL,Leadership",1572014
+13,Bachelors,Data Scientist,Suburban,"Machine Learning,Communication",538569
+9,Bachelors,Data Scientist,Urban,"Java,Python,Communication",974071
+10,Masters,Others,Urban,"Python,Java",652641
+1,Masters,HR,Suburban,"Leadership,SQL",867752
+24,Bachelors,HR,Urban,"Machine Learning,Python",1212494
+8,Masters,Data Scientist,Rural,"Communication,Machine Learning,SQL",1765538
+16,Bachelors,Manager,Urban,"Python,Java,Communication",2153303
+2,Bachelors,Manager,Rural,"Python,Machine Learning",905362
+23,Bachelors,Software Engineer,Suburban,"Machine Learning,Java,Java,Communication",2442848
+5,Bachelors,Software Engineer,Urban,"Communication,Java",920608
+4,Bachelors,Others,Urban,"Machine Learning,Java",1894173
+4,PhD,Data Scientist,Suburban,"SQL,Python,Java,Communication",1219224
+21,Masters,Software Engineer,Suburban,"Leadership,Leadership",317421
+14,Masters,Software Engineer,Suburban,"SQL,Communication,SQL",486436
+22,Bachelors,Data Scientist,Urban,"Python,Leadership",1773659
+16,Bachelors,Others,Urban,"Communication,Leadership,SQL,Machine Learning",1601332
+8,Masters,Software Engineer,Urban,"Python,Java",1836314
+2,Bachelors,Others,Suburban,"Python,Machine Learning,Java,SQL",1308067
+19,Bachelors,HR,Urban,"Java,Java,Java",2464178
+16,Bachelors,Others,Urban,Machine Learning,324804
+9,Masters,Manager,Suburban,"Machine Learning,Leadership,Machine Learning,Leadership",1012803
+2,Bachelors,Manager,Rural,SQL,2222871
+17,Bachelors,Others,Urban,"Java,SQL",2190483
+17,Masters,Manager,Urban,"Communication,Machine Learning,Leadership",737335
+16,Bachelors,HR,Suburban,"Java,Python,Python,SQL",1283061
+23,Bachelors,Data Scientist,Suburban,"Python,SQL,Communication,SQL",1511402
+2,Bachelors,Manager,Urban,"SQL,SQL,Java",1603940
+2,Bachelors,Manager,Rural,"Leadership,SQL,Java",2221027
+5,Masters,Others,Rural,"Communication,Machine Learning",1616851
+12,Bachelors,HR,Urban,Python,2376028
+23,Bachelors,Data Scientist,Urban,"Communication,SQL,Python",1973907
+14,Masters,Others,Suburban,"Java,Machine Learning,Communication",1553343
+24,Masters,Others,Suburban,"Machine Learning,Communication",2159503
+8,Masters,HR,Urban,Python,1326837
+3,Bachelors,Data Scientist,Suburban,"Communication,Leadership",1773163
+13,Bachelors,HR,Suburban,"Communication,Machine Learning,Python",1787746
+4,PhD,Data Scientist,Urban,"Python,SQL,Java",1879040
+1,Masters,HR,Suburban,"Communication,Leadership",2489564
+10,Bachelors,Others,Rural,"Communication,Python",1766925
+8,Bachelors,Others,Urban,"Python,Python",2241637
+23,Bachelors,Software Engineer,Urban,"Java,Python",2158281
+2,PhD,Manager,Urban,"Leadership,Java",1148760
+8,Bachelors,HR,Rural,"Java,Java",922636
+2,Bachelors,Software Engineer,Rural,"Python,Machine Learning,Java",634083
+24,Bachelors,Manager,Urban,Leadership,781598
+1,Masters,HR,Suburban,Java,1663664
+11,Masters,Data Scientist,Suburban,"Leadership,Leadership",1964327
+9,Bachelors,Manager,Suburban,"Leadership,Java",916252
+8,Masters,Others,Urban,"Machine Learning,SQL,Leadership",853359
+14,PhD,Software Engineer,Urban,"SQL,Java",946362
+7,Bachelors,Manager,Urban,Communication,2324887
+24,Bachelors,Manager,Suburban,Python,1683331
+4,Bachelors,Others,Urban,"Communication,SQL",1369234
+10,Masters,HR,Rural,Machine Learning,1832716
+1,Bachelors,Data Scientist,Urban,"Python,Communication",517531
+23,Masters,Others,Urban,"SQL,Java",2182303
+14,Masters,Data Scientist,Suburban,"SQL,Leadership",2316494
+5,Bachelors,HR,Suburban,"Java,SQL,Leadership",676941
+7,PhD,Manager,Urban,"Python,SQL,SQL",905920
+4,Bachelors,Data Scientist,Urban,"Python,Machine Learning",636354
+15,Bachelors,Software Engineer,Rural,"Communication,SQL,SQL,Python",1562032
+17,Masters,Software Engineer,Urban,"Machine Learning,Communication",1185709
+5,Masters,Others,Urban,SQL,2227675
+4,Bachelors,HR,Rural,"Communication,Java,Machine Learning,Communication",2434718
+15,Masters,Others,Urban,Java,1533326
+12,PhD,Others,Urban,Communication,2344589
+4,Bachelors,Others,Urban,"SQL,Leadership,Machine Learning,SQL",2335469
+12,PhD,Software Engineer,Urban,"Java,Leadership,Communication",1596365
+16,Bachelors,Software Engineer,Urban,"Leadership,Machine Learning,Java",1386078
+17,Bachelors,Others,Urban,SQL,736598
+7,Bachelors,Software Engineer,Urban,"Java,Python,SQL,Java",599454
+12,Masters,HR,Urban,"Java,Leadership,SQL,Java",2118521
+18,Masters,Others,Suburban,SQL,783037
+2,Bachelors,Software Engineer,Urban,"Leadership,Python",834933
+23,Bachelors,Data Scientist,Urban,"Python,Communication,SQL,Leadership",463933
+7,Masters,Others,Rural,"Java,Python",1351751
+1,Bachelors,Others,Suburban,"Communication,Python",1251720
+7,Masters,HR,Urban,Communication,2495547
+12,Masters,Manager,Rural,"Java,SQL,Leadership",2397914
+12,Bachelors,Manager,Urban,"Machine Learning,Machine Learning,Machine Learning",2304300
+0,PhD,HR,Urban,Python,677709
+5,Bachelors,HR,Suburban,"SQL,Java,Machine Learning",505539
+23,PhD,HR,Suburban,"Machine Learning,Machine Learning,Java",2000866
+18,Masters,Manager,Urban,"Leadership,Leadership,Leadership,Communication",2288803
+15,Masters,HR,Urban,Communication,2052272
+7,Bachelors,Software Engineer,Suburban,"Communication,SQL,SQL",1331159
+0,Masters,Others,Urban,Java,903080
+15,Bachelors,Others,Rural,"Python,Leadership,Leadership,Communication",2427096
+8,Bachelors,Data Scientist,Urban,"Machine Learning,Machine Learning,SQL",2285030
+12,Bachelors,Data Scientist,Rural,"Python,Java,Python",2200852
+10,Bachelors,Others,Suburban,"SQL,Java,Communication",1290444
+12,Bachelors,Software Engineer,Rural,Java,262120
+24,Masters,Manager,Suburban,Machine Learning,874135
+20,Masters,Manager,Suburban,Communication,872863
+9,Bachelors,Software Engineer,Urban,Machine Learning,794748
+3,Masters,Manager,Urban,"Communication,Leadership,Machine Learning",2162124
+5,Bachelors,HR,Urban,"Python,Java",2303902
+6,Masters,Others,Rural,Java,801616
+4,Masters,Others,Rural,"Python,Python",2471186
+10,Bachelors,Software Engineer,Urban,"Python,Python,SQL",1844469
+12,Masters,Manager,Urban,Communication,2195909
+24,Bachelors,Data Scientist,Urban,"Machine Learning,Python,Python",1084030
+18,Bachelors,Data Scientist,Suburban,"SQL,Machine Learning,Leadership",441848
+22,Masters,Manager,Urban,Java,2157266
+9,Bachelors,Data Scientist,Suburban,"Communication,Python",2026238
+9,Bachelors,Software Engineer,Rural,"Leadership,SQL,Machine Learning",312784
+10,Bachelors,Software Engineer,Urban,Machine Learning,1183432
+20,Masters,Manager,Urban,"Communication,Leadership,Python",1319850
+6,Bachelors,Data Scientist,Urban,"Java,Machine Learning,Machine Learning,Java",1952858
+17,Bachelors,Software Engineer,Urban,"Machine Learning,Communication,Communication,Java",1070848
+3,Masters,Software Engineer,Urban,"Python,Leadership,Leadership",966358
+1,Masters,HR,Urban,"Machine Learning,Python,Java,Java",493768
+13,Bachelors,HR,Rural,Machine Learning,2245127
+12,Bachelors,Software Engineer,Urban,"Java,Machine Learning,Python",1991070
+11,Bachelors,Manager,Urban,"Communication,Leadership,Python",1758834
+6,Bachelors,Others,Rural,"Java,Python",1285108
+1,Bachelors,Others,Suburban,"Machine Learning,Java",393435
+12,Masters,Software Engineer,Urban,Machine Learning,728365
+13,Masters,Software Engineer,Suburban,"SQL,Java,Java",1212067
+16,Masters,Software Engineer,Urban,Communication,2324242
+8,Bachelors,Manager,Suburban,"Python,Python",1288457
+16,Masters,HR,Suburban,Communication,1869110
+7,Bachelors,Software Engineer,Suburban,Python,1178665
+1,PhD,Software Engineer,Urban,"Python,Java,Leadership",744209
+23,Masters,Data Scientist,Rural,Machine Learning,863398
+12,Bachelors,Manager,Urban,"SQL,Communication",1784230
+2,Masters,Software Engineer,Urban,"Communication,Java,Leadership",2013796
+15,Bachelors,Data Scientist,Urban,"Python,Java",1506847
+5,Masters,Others,Urban,Python,845976
+18,Bachelors,Software Engineer,Urban,"Communication,Leadership,Python,SQL",1101980
+6,Bachelors,Software Engineer,Rural,"Leadership,SQL,Communication",2016299
+9,Masters,Data Scientist,Rural,"Machine Learning,Python",523306
+8,Bachelors,Manager,Urban,"Java,Java,Communication,SQL",1912656
+1,Masters,Software Engineer,Urban,"Java,Communication,Communication",949793
+14,Bachelors,Others,Urban,"Python,SQL",1768642
+4,Masters,Software Engineer,Urban,"Leadership,Machine Learning",1364764
+21,Masters,Others,Urban,"Python,Communication,Java",1484599
+3,Bachelors,HR,Rural,"Machine Learning,Python,Python",2166726
+19,Bachelors,HR,Urban,"SQL,Machine Learning",1012476
+3,Bachelors,Others,Urban,Java,810846
+17,Bachelors,Manager,Urban,Machine Learning,378938
+3,Bachelors,Software Engineer,Rural,Communication,1445307
+16,Masters,Software Engineer,Suburban,"SQL,Machine Learning",1105656
+11,PhD,HR,Rural,"Python,Python",716441
+21,Masters,Others,Suburban,Leadership,1931405
+16,Masters,Software Engineer,Urban,Java,734716
+9,Masters,Software Engineer,Urban,"Communication,Java,Python",2042363
+21,Masters,Manager,Suburban,"Java,Leadership",888922
+0,Bachelors,Data Scientist,Urban,"Leadership,Java,SQL",1027867
+21,PhD,HR,Suburban,"Communication,Java,Python",1618465
+23,Masters,HR,Urban,"Machine Learning,Java",1926779
+17,Bachelors,Data Scientist,Urban,"Communication,Leadership,SQL,Python",1812607
+17,Bachelors,Software Engineer,Suburban,"Machine Learning,Java,Leadership",1952424
+13,Bachelors,Manager,Suburban,"Communication,Java",1435560
+14,Bachelors,Manager,Suburban,Machine Learning,2010968
+11,Masters,HR,Urban,"Machine Learning,Leadership,Java",1196301
